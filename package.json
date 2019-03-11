@@ -1,5 +1,5 @@
 {
-  "name": "html-template-tag",
+  "name": "@tehshrike/html-template-tag",
   "version": "3.0.0",
   "description": "ES6 Tagged Template for compiling HTML template strings.",
   "main": "dist/index.js",
